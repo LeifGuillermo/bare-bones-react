@@ -8,7 +8,7 @@ Note: this may take some time.
 To start the application (for development):
 run: <code>npm start</code>
 
-To start the application (for production):
+To build the application (for production):
 run: <code>npm run build</code>
 
 Ignored files/folders:
