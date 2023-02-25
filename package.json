@@ -1,0 +1,27 @@
+{
+  "name": "bare-bones-react",
+  "version": "1.0.0",
+  "description": "A bare-bones react application which runs without the use of create-react-app and/or react-scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeifGuillermo/bare-bones-react.git"
+  },
+  "keywords": [
+    "react",
+    "simple",
+    "base",
+    "template",
+    "bare-bones",
+    "minimal"
+  ],
+  "author": "Leif Guillermo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeifGuillermo/bare-bones-react/issues"
+  },
+  "homepage": "https://github.com/LeifGuillermo/bare-bones-react#readme"
+}
