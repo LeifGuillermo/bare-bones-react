@@ -2,7 +2,7 @@
 A bare-bones react application which runs without the use of create-react-app and/or react-scripts.
 
 To initialize the application (before running it):
-run: <code>npm init</code>
+run: <code>npm install</code>
 Note: this may take some time.
 
 To start the application (for development):
